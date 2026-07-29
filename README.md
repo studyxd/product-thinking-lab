@@ -8,13 +8,13 @@ This repository collects my notes on product strategy, AI products, commercializ
 
 ## Topics / 内容分类
 
-- Product Strategy / 产品策略
-- Commercialization / 商业化
-- AI Products / AI 产品
-- Overseas Consumer Markets / 海外消费产品市场
-- Social & Community Products / 社区与社交产品
-- Hard-Tech Research / 硬科技研究
-- Build in Public / 公开建设记录
+- [Product Strategy / 产品策略](./01-product-strategy)
+- [Commercialization / 商业化](./02-commercialization)
+- [AI Products / AI 产品](./03-ai-products)
+- [Overseas Consumer Markets / 海外消费产品市场](./04-overseas-consumer-markets)
+- [Social & Community Products / 社区与社交产品](./05-social-community-products)
+- [Hard-Tech Research / 硬科技研究](./06-hard-tech-research)
+- [Build in Public / 公开建设记录](./07-build-in-public)
 
 ## Notes / 说明
 
